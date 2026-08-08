@@ -1,1 +1,5 @@
 
+User-agent: *
+Allow: /
+
+Sitemap: https://bhoimali-etihas.vercel.app/sitemap.xml
