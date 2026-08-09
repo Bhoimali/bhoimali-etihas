@@ -4,7 +4,7 @@
 // GOOGLE SHEET FETCH FUNCTION START
 // ================================
 
-const API = "https://script.google.com/macros/s/AKfycbxA_XgSev7jBJ92xd-TZV-573nrOJ8or3L_CkX3TAvPYb10BLnD9cRPlIJKvoCAFPjpTQ/exec";
+const API = "https://script.google.com/macros/s/AKfycbyDnHaoxT4wXMIKFJXWaSeDjn6C7mPCFUtfl1zGuE5f5i370R-zQAakEt71EsZKpKhTvw/exec";
 
 let currentLinks = {};
 
